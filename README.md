@@ -6,7 +6,6 @@
 The dashboard enables users to select a product category and instantly view month-wise and region-wise sales trends.
 * **Dataset:** Analyzed a dataset containing **50,000+ sales records** and **20+ business attributes**, including sales, profit, quantity, customer, product, and regional information.
 
-
 ---
 
 ## 🛠️ Tools Used
@@ -57,16 +56,14 @@ For Example - March to May, June & July and October months recorded the highest 
 
 ### Main Dashboard
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](visuals/Dasboard_Preview.png)
 
 ---
 
 ## 🚀 Explore My Work (Quick Links)
 
-📊 **Dashboard Workbook:** [Excel File]
+📊 **[View Dashboard Workbook](https://github.com/paladitya2077-datawizard/excel-E-commerce-sales-analysis-dashboard/blob/f7587c2e0ad9113ecc133bc240aa28219331bbbb/dashboard/Aditya%20Pal%20E_Commerce_Dashboard_Excel_Project.xlsx):**
 
-📄 **Problem Statement:** [PDF File]
+🖼️ **[Browse Dashboard Screenshots](https://github.com/paladitya2077-datawizard/excel-E-commerce-sales-analysis-dashboard/tree/f7587c2e0ad9113ecc133bc240aa28219331bbbb/visuals):**
 
-🖼️ **Dashboard Screenshots:** [Screenshots Folder]
-
-📁 **Dataset:** [Dataset File]
+📁 **[View Dataset](data/E_Commerce_Dataset.xlsx):**
