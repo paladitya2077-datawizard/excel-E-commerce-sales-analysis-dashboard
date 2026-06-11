@@ -52,9 +52,9 @@ For Example - March to May, June & July and October months recorded the highest 
 
 ---
 
-## 📈 Dashboard Preview
+## 📈 Dashboard Design Preview
 
-### Main Dashboard
+Below is a visual layout of the interactive e-commerce sales dashboard built in Excel:
 
 ![Dashboard Preview](visuals/Dasboard_Preview.png)
 
@@ -62,8 +62,8 @@ For Example - March to May, June & July and October months recorded the highest 
 
 ## 🚀 Explore My Work (Quick Links)
 
-📊 **[View Dashboard Workbook](https://github.com/paladitya2077-datawizard/excel-E-commerce-sales-analysis-dashboard/blob/f7587c2e0ad9113ecc133bc240aa28219331bbbb/dashboard/Aditya%20Pal%20E_Commerce_Dashboard_Excel_Project.xlsx):**
+📊 **[Download Dashboard Workbook](https://github.com/paladitya2077-datawizard/excel-E-commerce-sales-analysis-dashboard/blob/f7587c2e0ad9113ecc133bc240aa28219331bbbb/dashboard/Aditya%20Pal%20E_Commerce_Dashboard_Excel_Project.xlsx):** Download the master file to see my live formulas, charts, and interactive drop-downs.
 
-🖼️ **[Browse Dashboard Screenshots](https://github.com/paladitya2077-datawizard/excel-E-commerce-sales-analysis-dashboard/tree/f7587c2e0ad9113ecc133bc240aa28219331bbbb/visuals):**
+🖼️ **[Browse Dashboard Screenshots](https://github.com/paladitya2077-datawizard/excel-E-commerce-sales-analysis-dashboard/tree/f7587c2e0ad9113ecc133bc240aa28219331bbbb/visuals):** Look at screenshots of the visuals.
 
-📁 **[View Dataset](data/E_Commerce_Dataset.xlsx):**
+📁 **[View Dataset](data/E_Commerce_Dataset.xlsx):** Access the original source data sheets.
